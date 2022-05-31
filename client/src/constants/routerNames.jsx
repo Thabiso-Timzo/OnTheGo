@@ -1,0 +1,15 @@
+export const Welcome = "Welcome";
+export const CellPhone = "CellPhone";
+export const Code = "Code";
+export const Profile = "Profile";
+export const WelcomeContainer = "WelcomeContainer";
+export const Request = "Request";
+export const Messages = "Messages";
+export const History = "History";
+export const Ride = "Ride";
+export const Payment = "Payment";
+export const Gift = "Gift";
+export const Help = "Help";
+export const RideMap = "RideMap"
+export const SignIn = "Login";
+export const SignUp = "Register";

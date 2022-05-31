@@ -1,0 +1,22 @@
+export default {
+    orangeBlack: '#EC5656'- '#FF984A',
+    blueBlack: '#ACDF0d' - '#0D6778',
+    pink: '#EC436A',
+    grey: '#95989A',
+    yellow:  '#FFDA44',
+    sky: '#1ACDF0',
+    babyBlue: '#2189BC',
+    navyBlue: '#0052B4',
+    red: '#D80027',
+    white: '#F0F0F0',
+    darkYellow: '#F79E1B',
+    lightRed: '#EB001B',
+    orange: '#FF5F00',
+    lightWhite: '#FFFFFF',
+    black: '#000',
+    container: '#f8f6f6',
+    darkGrey: '#2E2E2E',
+    lightGrey: '#F0F0F0',
+    cell: '#3557b7',
+    cellBgColor: '#f7fafe'
+};
